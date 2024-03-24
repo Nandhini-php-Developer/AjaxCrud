@@ -1,0 +1,11 @@
+Ajax crud in php without page reload
+
+https://www.sourcecodester.com/php/17146/crud-create-read-update-delete-without-page-reloadrefresh-using-php-and-mysql-source-code
+
+laravel ajax crud 
+
+https://laravelarticle.com/laravel-ajax-datatable-crud
+
+wordpress crud
+
+https://accreditly.io/articles/how-to-create-a-crud-in-wordpress-without-using-plugins
